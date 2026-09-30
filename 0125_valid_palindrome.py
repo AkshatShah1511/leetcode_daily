@@ -1,0 +1,19 @@
+# LeetCode 125: Valid Palindrome
+# https://leetcode.com/problems/valid-palindrome/
+# Fresh Python solution for the user's solved-question archive.
+# Imported: 2026-09-30. Not the user's original submission.
+# Approach: Skip non-alphanumeric characters and compare case-insensitively from both ends.
+# Complexity: O(n) time, O(1) space.
+
+from __future__ import annotations
+from typing import List, Optional
+
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        left,right = 0,len(s)-1
+        while left < right:
+            if not s[left].isalnum(): left += 1; continue
+            if not s[right].isalnum(): right -= 1; continue
+            if s[left].lower() != s[right].lower(): return False
+            left += 1; right -= 1
+        return True
