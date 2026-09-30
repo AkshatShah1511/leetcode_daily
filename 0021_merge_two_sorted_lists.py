@@ -1,7 +1,6 @@
 # LeetCode 21: Merge Two Sorted Lists
 # https://leetcode.com/problems/merge-two-sorted-lists/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Repeatedly attach the smaller list head; the merged prefix stays sorted.
 # Complexity: O(m+n) time, O(1) auxiliary space.
 

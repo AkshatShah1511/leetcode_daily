@@ -1,7 +1,6 @@
 # LeetCode 138: Copy List with Random Pointer
 # https://leetcode.com/problems/copy-list-with-random-pointer/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Create every clone first, then connect its next and random pointers through a map.
 # Complexity: O(n) time and space.
 

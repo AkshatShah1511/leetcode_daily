@@ -1,7 +1,6 @@
 # LeetCode 129: Sum Root to Leaf Numbers
 # https://leetcode.com/problems/sum-root-to-leaf-numbers/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Append each digit to the accumulated number and sum only at leaves.
 # Complexity: O(n) time, O(h) space.
 

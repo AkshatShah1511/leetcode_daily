@@ -1,7 +1,6 @@
 # LeetCode 496: Next Greater Element I
 # https://leetcode.com/problems/next-greater-element-i/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: A decreasing stack resolves each value when its first larger successor arrives.
 # Complexity: O(m+n) time, O(n) space.
 

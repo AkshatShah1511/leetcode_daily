@@ -1,7 +1,6 @@
 # LeetCode 560: Subarray Sum Equals K
 # https://leetcode.com/problems/subarray-sum-equals-k/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Count earlier prefix sums equal to current_sum-k; each gives one valid subarray.
 # Complexity: O(n) expected time and space.
 

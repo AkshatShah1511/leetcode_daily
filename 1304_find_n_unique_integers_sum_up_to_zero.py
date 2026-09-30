@@ -1,7 +1,6 @@
 # LeetCode 1304: Find N Unique Integers Sum up to Zero
 # https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Use opposite nonzero pairs and add zero only for odd n.
 # Complexity: O(n) time and output space.
 

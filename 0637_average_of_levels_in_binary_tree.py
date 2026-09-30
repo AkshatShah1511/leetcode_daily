@@ -1,7 +1,6 @@
 # LeetCode 637: Average of Levels in Binary Tree
 # https://leetcode.com/problems/average-of-levels-in-binary-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Average the values in each breadth-first level.
 # Complexity: O(n) time, O(w) queue space plus output.
 

@@ -1,7 +1,6 @@
 # LeetCode 9: Palindrome Number
 # https://leetcode.com/problems/palindrome-number/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Reverse only half the digits and compare the halves, skipping the middle digit.
 # Complexity: O(log x) time, O(1) space.
 

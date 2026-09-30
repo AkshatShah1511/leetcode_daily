@@ -1,7 +1,6 @@
 # LeetCode 3823: Reverse Letters Then Special Characters in a String
 # https://leetcode.com/problems/reverse-letters-then-special-characters-in-a-string/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Collect the two character categories separately and pop each in reverse order.
 # Complexity: O(n) time and space.
 

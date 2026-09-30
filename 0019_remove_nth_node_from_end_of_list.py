@@ -1,7 +1,6 @@
 # LeetCode 19: Remove Nth Node From End of List
 # https://leetcode.com/problems/remove-nth-node-from-end-of-list/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Separate two pointers by n nodes so the slower one stops before the removal.
 # Complexity: O(n) time, O(1) space.
 

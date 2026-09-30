@@ -1,7 +1,6 @@
 # LeetCode 733: Flood Fill
 # https://leetcode.com/problems/flood-fill/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Flood-fill connected cells of the original color, marking them when discovered.
 # Complexity: O(m*n) time and space.
 

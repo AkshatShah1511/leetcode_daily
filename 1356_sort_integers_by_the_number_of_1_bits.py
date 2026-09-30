@@ -1,7 +1,6 @@
 # LeetCode 1356: Sort Integers by The Number of 1 Bits
 # https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Sort by population count first and integer value second.
 # Complexity: O(n log n) time, O(n) space for fixed-width integers.
 

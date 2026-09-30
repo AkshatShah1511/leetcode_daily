@@ -1,7 +1,6 @@
 # LeetCode 1877: Minimize Maximum Pair Sum in Array
 # https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Pair smallest with largest; an exchange argument minimizes the worst pair sum.
 # Complexity: O(n log n) time, O(n) sorting space.
 

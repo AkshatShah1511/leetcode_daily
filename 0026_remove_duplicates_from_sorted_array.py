@@ -1,7 +1,6 @@
 # LeetCode 26: Remove Duplicates from Sorted Array
 # https://leetcode.com/problems/remove-duplicates-from-sorted-array/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Write each new sorted value into the next free prefix position.
 # Complexity: O(n) time, O(1) space.
 

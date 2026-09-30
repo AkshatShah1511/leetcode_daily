@@ -1,7 +1,6 @@
 # LeetCode 404: Sum of Left Leaves
 # https://leetcode.com/problems/sum-of-left-leaves/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Track whether each node was reached through a left edge; add only left leaves.
 # Complexity: O(n) time, O(h) space.
 

@@ -1,7 +1,6 @@
 # LeetCode 100: Same Tree
 # https://leetcode.com/problems/same-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Compare corresponding nodes and both pairs of children.
 # Complexity: O(n) time, O(h) DFS space.
 

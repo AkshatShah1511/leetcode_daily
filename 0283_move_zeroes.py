@@ -1,7 +1,6 @@
 # LeetCode 283: Move Zeroes
 # https://leetcode.com/problems/move-zeroes/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Compact nonzeros in order, then fill the remaining suffix with zeros.
 # Complexity: O(n) time, O(1) space.
 

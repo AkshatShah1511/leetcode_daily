@@ -1,7 +1,6 @@
 # LeetCode 3824: Minimum K to Reduce Array Within Limit
 # https://leetcode.com/problems/minimum-k-to-reduce-array-within-limit/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Binary-search k: sum(ceil(x/k)) decreases while k squared increases.
 # Complexity: O(n log(max(max(nums),n))) time, O(1) space.
 

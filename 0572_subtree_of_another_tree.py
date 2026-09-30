@@ -1,7 +1,6 @@
 # LeetCode 572: Subtree of Another Tree
 # https://leetcode.com/problems/subtree-of-another-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Serialize preorder with null markers, then KMP-search the smaller tree token sequence.
 # Complexity: O(n+m) time and space.
 

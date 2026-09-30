@@ -1,7 +1,6 @@
 # LeetCode 2553: Separate the Digits in an Array
 # https://leetcode.com/problems/separate-the-digits-in-an-array/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Emit each integer digit in its original left-to-right order.
 # Complexity: O(total digits) time and output space.
 

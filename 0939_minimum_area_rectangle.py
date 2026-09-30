@@ -1,7 +1,6 @@
 # LeetCode 939: Minimum Area Rectangle
 # https://leetcode.com/problems/minimum-area-rectangle/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Treat each point pair as a possible diagonal and check both other corners.
 # Complexity: O(n^2) expected time, O(n) space.
 

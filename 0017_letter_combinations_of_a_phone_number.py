@@ -1,7 +1,6 @@
 # LeetCode 17: Letter Combinations of a Phone Number
 # https://leetcode.com/problems/letter-combinations-of-a-phone-number/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Extend every partial combination with each letter for the next digit.
 # Complexity: O(n*4^n) time and output space.
 

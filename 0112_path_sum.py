@@ -1,7 +1,6 @@
 # LeetCode 112: Path Sum
 # https://leetcode.com/problems/path-sum/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Track root-to-node sums; accept only a leaf with the requested total.
 # Complexity: O(n) time, O(h) space.
 

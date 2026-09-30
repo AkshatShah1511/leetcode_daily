@@ -1,7 +1,6 @@
 # LeetCode 3912: Valid Elements in an Array
 # https://leetcode.com/problems/valid-elements-in-an-array/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Mark strict record highs from each direction, then emit marked entries in order.
 # Complexity: O(n) time and space.
 

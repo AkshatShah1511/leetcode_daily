@@ -1,7 +1,6 @@
 # LeetCode 498: Diagonal Traverse
 # https://leetcode.com/problems/diagonal-traverse/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Group cells by row+column and alternate the direction of each diagonal.
 # Complexity: O(m*n) time, O(min(m,n)) auxiliary space plus output.
 

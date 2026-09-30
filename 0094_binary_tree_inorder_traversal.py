@@ -1,7 +1,6 @@
 # LeetCode 94: Binary Tree Inorder Traversal
 # https://leetcode.com/problems/binary-tree-inorder-traversal/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Use a stack to visit left subtree, node, then right subtree.
 # Complexity: O(n) time, O(h) auxiliary space plus output.
 

@@ -1,7 +1,6 @@
 # LeetCode 206: Reverse Linked List
 # https://leetcode.com/problems/reverse-linked-list/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Reverse one next pointer at a time, preserving the unprocessed suffix.
 # Complexity: O(n) time, O(1) space.
 

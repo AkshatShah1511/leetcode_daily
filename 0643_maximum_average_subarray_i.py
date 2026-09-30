@@ -1,7 +1,6 @@
 # LeetCode 643: Maximum Average Subarray I
 # https://leetcode.com/problems/maximum-average-subarray-i/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Maintain the sum of a fixed-length window by adding and removing its endpoints.
 # Complexity: O(n) time, O(1) auxiliary space.
 

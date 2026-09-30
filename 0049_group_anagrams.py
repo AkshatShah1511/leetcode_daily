@@ -1,7 +1,6 @@
 # LeetCode 49: Group Anagrams
 # https://leetcode.com/problems/group-anagrams/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Anagrams share the same 26-letter count tuple.
 # Complexity: O(total characters) time, O(total characters) output and grouping space.
 

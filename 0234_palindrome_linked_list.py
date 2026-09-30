@@ -1,7 +1,6 @@
 # LeetCode 234: Palindrome Linked List
 # https://leetcode.com/problems/palindrome-linked-list/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Reverse the second half, compare halves, then restore the original list.
 # Complexity: O(n) time, O(1) space.
 

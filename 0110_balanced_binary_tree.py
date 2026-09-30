@@ -1,7 +1,6 @@
 # LeetCode 110: Balanced Binary Tree
 # https://leetcode.com/problems/balanced-binary-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Compare the two subtree heights at every node. Iterative postorder computes children before their parent.
 # Complexity: O(n) time and space.
 

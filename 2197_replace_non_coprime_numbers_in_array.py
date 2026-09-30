@@ -1,7 +1,6 @@
 # LeetCode 2197: Replace Non-Coprime Numbers in Array
 # https://leetcode.com/problems/replace-non-coprime-numbers-in-array/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Maintain a coprime-adjacent stack; merge its top repeatedly with the incoming LCM.
 # Complexity: O(n log M) arithmetic time, O(n) space.
 

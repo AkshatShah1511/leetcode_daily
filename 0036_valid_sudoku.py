@@ -1,7 +1,6 @@
 # LeetCode 36: Valid Sudoku
 # https://leetcode.com/problems/valid-sudoku/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Record each digit separately in its row, column, and 3-by-3 box.
 # Complexity: O(81) time and space for the fixed board.
 

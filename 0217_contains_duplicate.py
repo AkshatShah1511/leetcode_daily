@@ -1,7 +1,6 @@
 # LeetCode 217: Contains Duplicate
 # https://leetcode.com/problems/contains-duplicate/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: A set removes duplicates; compare its size to the input.
 # Complexity: O(n) expected time and space.
 

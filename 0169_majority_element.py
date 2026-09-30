@@ -1,7 +1,6 @@
 # LeetCode 169: Majority Element
 # https://leetcode.com/problems/majority-element/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Boyer-Moore cancels unlike pairs; the guaranteed majority survives.
 # Complexity: O(n) time, O(1) space.
 

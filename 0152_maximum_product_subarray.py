@@ -1,7 +1,6 @@
 # LeetCode 152: Maximum Product Subarray
 # https://leetcode.com/problems/maximum-product-subarray/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Track both extreme ending products because a negative factor exchanges their roles.
 # Complexity: O(n) time, O(1) auxiliary space.
 

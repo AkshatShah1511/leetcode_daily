@@ -1,7 +1,6 @@
 # LeetCode 235: Lowest Common Ancestor of a Binary Search Tree
 # https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: The first node where the targets diverge, or equal the node, is their BST ancestor.
 # Complexity: O(h) time, O(1) space.
 

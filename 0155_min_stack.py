@@ -1,7 +1,6 @@
 # LeetCode 155: Min Stack
 # https://leetcode.com/problems/min-stack/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Store the minimum so far alongside every pushed value.
 # Complexity: O(1) per operation, O(n) space.
 

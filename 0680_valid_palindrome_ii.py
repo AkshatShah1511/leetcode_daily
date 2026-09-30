@@ -1,7 +1,6 @@
 # LeetCode 680: Valid Palindrome II
 # https://leetcode.com/problems/valid-palindrome-ii/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: At the first mismatch, any valid deletion must remove one of those two endpoints.
 # Complexity: O(n) time, O(1) space.
 

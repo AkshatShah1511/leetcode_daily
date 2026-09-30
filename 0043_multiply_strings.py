@@ -1,7 +1,6 @@
 # LeetCode 43: Multiply Strings
 # https://leetcode.com/problems/multiply-strings/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Multiply every digit pair into its positional slot, then propagate carries.
 # Complexity: O(m*n) time, O(m+n) space.
 

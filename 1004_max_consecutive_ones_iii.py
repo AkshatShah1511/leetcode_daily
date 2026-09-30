@@ -1,7 +1,6 @@
 # LeetCode 1004: Max Consecutive Ones III
 # https://leetcode.com/problems/max-consecutive-ones-iii/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: A sliding window is valid while it contains at most k zeros.
 # Complexity: O(n) time, O(1) space.
 

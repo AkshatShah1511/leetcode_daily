@@ -1,7 +1,6 @@
 # LeetCode 24: Swap Nodes in Pairs
 # https://leetcode.com/problems/swap-nodes-in-pairs/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Rewire each adjacent pair while retaining the predecessor for reconnection.
 # Complexity: O(n) time, O(1) space.
 

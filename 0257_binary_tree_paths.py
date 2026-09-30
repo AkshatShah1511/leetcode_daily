@@ -1,7 +1,6 @@
 # LeetCode 257: Binary Tree Paths
 # https://leetcode.com/problems/binary-tree-paths/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Use DFS enter/exit events to maintain the current root-to-leaf path.
 # Complexity: O(n + output characters) time, O(h) auxiliary space.
 

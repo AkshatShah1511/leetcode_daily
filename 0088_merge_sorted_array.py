@@ -1,7 +1,6 @@
 # LeetCode 88: Merge Sorted Array
 # https://leetcode.com/problems/merge-sorted-array/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Merge backward so unread elements of nums1 are never overwritten.
 # Complexity: O(m+n) time, O(1) space.
 

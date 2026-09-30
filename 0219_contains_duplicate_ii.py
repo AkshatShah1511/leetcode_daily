@@ -1,7 +1,6 @@
 # LeetCode 219: Contains Duplicate II
 # https://leetcode.com/problems/contains-duplicate-ii/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: The most recent equal value gives the smallest possible index gap.
 # Complexity: O(n) expected time and space.
 

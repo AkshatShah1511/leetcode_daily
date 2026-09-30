@@ -1,7 +1,6 @@
 # LeetCode 231: Power of Two
 # https://leetcode.com/problems/power-of-two/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: A positive power of two contains exactly one set bit.
 # Complexity: O(1) time and space for fixed-width input.
 

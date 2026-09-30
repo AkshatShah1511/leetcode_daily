@@ -1,7 +1,6 @@
 # LeetCode 61: Rotate List
 # https://leetcode.com/problems/rotate-list/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Make a ring and cut it at length-k modulo length.
 # Complexity: O(n) time, O(1) space.
 

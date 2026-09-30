@@ -1,7 +1,6 @@
 # LeetCode 3651: Minimum Cost Path with Teleportations
 # https://leetcode.com/problems/minimum-cost-path-with-teleportations/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: DP layers count allowed teleports; descending-value prefix minima supply free arrivals, then relax right/down moves.
 # Complexity: O(m*n log(m*n) + k*m*n) time, O(m*n) space.
 

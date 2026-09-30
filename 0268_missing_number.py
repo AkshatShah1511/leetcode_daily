@@ -1,7 +1,6 @@
 # LeetCode 268: Missing Number
 # https://leetcode.com/problems/missing-number/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Subtract the actual sum from the sum of all values from zero through n.
 # Complexity: O(n) time, O(1) space.
 

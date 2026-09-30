@@ -1,7 +1,6 @@
 # LeetCode 1470: Shuffle the Array
 # https://leetcode.com/problems/shuffle-the-array/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Interleave the corresponding entries of the two halves.
 # Complexity: O(n) time and output space.
 

@@ -1,7 +1,6 @@
 # LeetCode 102: Binary Tree Level Order Traversal
 # https://leetcode.com/problems/binary-tree-level-order-traversal/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Breadth-first traversal processes one complete level at a time.
 # Complexity: O(n) time, O(w) queue space plus output.
 

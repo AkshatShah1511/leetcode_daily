@@ -1,7 +1,6 @@
 # LeetCode 1323: Maximum 69 Number
 # https://leetcode.com/problems/maximum-69-number/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Changing the leftmost six gives the largest positional increase.
 # Complexity: O(d) time and space.
 

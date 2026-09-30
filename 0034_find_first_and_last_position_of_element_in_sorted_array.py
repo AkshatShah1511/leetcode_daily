@@ -1,7 +1,6 @@
 # LeetCode 34: Find First and Last Position of Element in Sorted Array
 # https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Binary-search the lower and upper insertion boundaries of the target.
 # Complexity: O(log n) time, O(1) space.
 

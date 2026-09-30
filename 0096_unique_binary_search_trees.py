@@ -1,7 +1,6 @@
 # LeetCode 96: Unique Binary Search Trees
 # https://leetcode.com/problems/unique-binary-search-trees/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: For each root, independently combine every left and right subtree shape.
 # Complexity: O(n^2) time, O(n) space.
 

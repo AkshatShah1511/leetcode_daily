@@ -1,7 +1,6 @@
 # LeetCode 485: Max Consecutive Ones
 # https://leetcode.com/problems/max-consecutive-ones/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Count the current run of ones, resetting on each zero.
 # Complexity: O(n) time, O(1) space.
 

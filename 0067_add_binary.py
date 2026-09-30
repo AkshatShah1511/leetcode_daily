@@ -1,7 +1,6 @@
 # LeetCode 67: Add Binary
 # https://leetcode.com/problems/add-binary/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Add bits from right to left with a binary carry.
 # Complexity: O(m+n) time and output space.
 

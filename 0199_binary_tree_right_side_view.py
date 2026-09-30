@@ -1,7 +1,6 @@
 # LeetCode 199: Binary Tree Right Side View
 # https://leetcode.com/problems/binary-tree-right-side-view/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Record the last node in each breadth-first level.
 # Complexity: O(n) time, O(w) queue space plus output.
 

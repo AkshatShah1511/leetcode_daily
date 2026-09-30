@@ -1,7 +1,6 @@
 # LeetCode 994: Rotting Oranges
 # https://leetcode.com/problems/rotting-oranges/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Multi-source BFS spreads rot one minute per level from all rotten oranges.
 # Complexity: O(m*n) time and space.
 

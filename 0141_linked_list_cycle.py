@@ -1,7 +1,6 @@
 # LeetCode 141: Linked List Cycle
 # https://leetcode.com/problems/linked-list-cycle/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Floyd pointers meet inside a cycle; otherwise the fast pointer reaches the end.
 # Complexity: O(n) time, O(1) space.
 

@@ -1,7 +1,6 @@
 # LeetCode 53: Maximum Subarray
 # https://leetcode.com/problems/maximum-subarray/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Kadane: the best subarray ending here either extends the previous one or restarts.
 # Complexity: O(n) time, O(1) space.
 

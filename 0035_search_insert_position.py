@@ -1,7 +1,6 @@
 # LeetCode 35: Search Insert Position
 # https://leetcode.com/problems/search-insert-position/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Lower bound is the first position whose value is not smaller than target.
 # Complexity: O(log n) time, O(1) space.
 

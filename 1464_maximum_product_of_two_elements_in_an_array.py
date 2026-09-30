@@ -1,7 +1,6 @@
 # LeetCode 1464: Maximum Product of Two Elements in an Array
 # https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Positive values make the two largest elements optimal.
 # Complexity: O(n) time, O(1) space.
 

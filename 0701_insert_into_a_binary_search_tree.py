@@ -1,7 +1,6 @@
 # LeetCode 701: Insert into a Binary Search Tree
 # https://leetcode.com/problems/insert-into-a-binary-search-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Follow BST comparisons until the correct empty child is found.
 # Complexity: O(h) time, O(1) auxiliary space.
 

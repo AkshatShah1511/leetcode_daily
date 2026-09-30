@@ -1,7 +1,6 @@
 # LeetCode 15: 3Sum
 # https://leetcode.com/problems/3sum/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Sort, fix one element, and use two pointers; skip equal values to avoid duplicates.
 # Complexity: O(n^2) time, O(n) sorting space plus output.
 

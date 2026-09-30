@@ -1,7 +1,6 @@
 # LeetCode 83: Remove Duplicates from Sorted List
 # https://leetcode.com/problems/remove-duplicates-from-sorted-list/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Equal values are adjacent; bypass repeated successors.
 # Complexity: O(n) time, O(1) space.
 

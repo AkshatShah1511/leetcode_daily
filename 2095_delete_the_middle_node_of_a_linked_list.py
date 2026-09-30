@@ -1,7 +1,6 @@
 # LeetCode 2095: Delete the Middle Node of a Linked List
 # https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Fast/slow pointers identify the middle and its predecessor.
 # Complexity: O(n) time, O(1) space.
 

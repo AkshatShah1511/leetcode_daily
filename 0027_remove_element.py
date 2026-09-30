@@ -1,7 +1,6 @@
 # LeetCode 27: Remove Element
 # https://leetcode.com/problems/remove-element/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Compact values unequal to val into a valid prefix.
 # Complexity: O(n) time, O(1) space.
 

@@ -1,7 +1,6 @@
 # LeetCode 226: Invert Binary Tree
 # https://leetcode.com/problems/invert-binary-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Swap both children at every node with an explicit stack.
 # Complexity: O(n) time, O(h) space.
 

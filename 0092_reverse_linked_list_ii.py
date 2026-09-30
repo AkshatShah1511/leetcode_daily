@@ -1,7 +1,6 @@
 # LeetCode 92: Reverse Linked List II
 # https://leetcode.com/problems/reverse-linked-list-ii/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Move each next node to the front of the selected segment.
 # Complexity: O(n) time, O(1) space.
 

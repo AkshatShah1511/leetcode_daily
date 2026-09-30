@@ -1,7 +1,6 @@
 # LeetCode 222: Count Complete Tree Nodes
 # https://leetcode.com/problems/count-complete-tree-nodes/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Equal extreme heights identify a perfect subtree; otherwise recurse on children.
 # Complexity: O(log^2 n) time, O(log n) stack on a complete tree.
 

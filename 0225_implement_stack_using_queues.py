@@ -1,7 +1,6 @@
 # LeetCode 225: Implement Stack using Queues
 # https://leetcode.com/problems/implement-stack-using-queues/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: After enqueueing, rotate earlier elements behind the new top using queue operations.
 # Complexity: O(n) push, O(1) other operations, O(n) space.
 

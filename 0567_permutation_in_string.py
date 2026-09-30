@@ -1,7 +1,6 @@
 # LeetCode 567: Permutation in String
 # https://leetcode.com/problems/permutation-in-string/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Compare counts for every window of the shorter string length.
 # Complexity: O(n+m) time with fixed alphabet, O(1) space.
 

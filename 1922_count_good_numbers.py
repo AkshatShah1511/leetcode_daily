@@ -1,7 +1,6 @@
 # LeetCode 1922: Count Good Numbers
 # https://leetcode.com/problems/count-good-numbers/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Even positions have five choices, odd positions four; multiply modular powers.
 # Complexity: O(log n) time, O(1) space.
 

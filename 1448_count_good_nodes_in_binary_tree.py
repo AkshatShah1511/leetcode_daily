@@ -1,7 +1,6 @@
 # LeetCode 1448: Count Good Nodes in Binary Tree
 # https://leetcode.com/problems/count-good-nodes-in-binary-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Carry the maximum value on each root path; count nodes at least that large.
 # Complexity: O(n) time, O(h) space.
 

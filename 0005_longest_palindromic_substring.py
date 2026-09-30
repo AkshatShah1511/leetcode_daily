@@ -1,7 +1,6 @@
 # LeetCode 5: Longest Palindromic Substring
 # https://leetcode.com/problems/longest-palindromic-substring/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Expand around every odd and even center; every palindrome has such a center.
 # Complexity: O(n^2) time, O(1) auxiliary space excluding output.
 

@@ -1,7 +1,6 @@
 # LeetCode 503: Next Greater Element II
 # https://leetcode.com/problems/next-greater-element-ii/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Scan twice for circular successors; push each index only on the first pass.
 # Complexity: O(n) time and space.
 

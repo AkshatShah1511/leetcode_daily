@@ -1,7 +1,6 @@
 # LeetCode 144: Binary Tree Preorder Traversal
 # https://leetcode.com/problems/binary-tree-preorder-traversal/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Push right before left so a stack visits root, left, right.
 # Complexity: O(n) time, O(h) auxiliary space plus output.
 

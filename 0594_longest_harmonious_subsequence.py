@@ -1,7 +1,6 @@
 # LeetCode 594: Longest Harmonious Subsequence
 # https://leetcode.com/problems/longest-harmonious-subsequence/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: A harmonious subsequence uses only x and x+1, with both present.
 # Complexity: O(n) expected time and space.
 

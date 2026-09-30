@@ -1,7 +1,6 @@
 # LeetCode 230: Kth Smallest Element in a BST
 # https://leetcode.com/problems/kth-smallest-element-in-a-bst/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: BST inorder traversal is sorted; stop after the kth visited value.
 # Complexity: O(h+k) time, O(h) space.
 

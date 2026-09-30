@@ -1,7 +1,6 @@
 # LeetCode 904: Fruit Into Baskets
 # https://leetcode.com/problems/fruit-into-baskets/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Maintain the longest window containing at most two fruit types.
 # Complexity: O(n) expected time, O(1) space.
 

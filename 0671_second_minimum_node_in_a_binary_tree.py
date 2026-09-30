@@ -1,7 +1,6 @@
 # LeetCode 671: Second Minimum Node In a Binary Tree
 # https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: The root is the global minimum; find the smallest value strictly larger than it.
 # Complexity: O(n) time, O(h) stack space.
 

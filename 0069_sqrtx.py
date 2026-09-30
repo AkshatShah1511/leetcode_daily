@@ -1,7 +1,6 @@
 # LeetCode 69: Sqrt(x)
 # https://leetcode.com/problems/sqrtx/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Binary-search the largest integer whose square is at most x.
 # Complexity: O(log(x+1)) time, O(1) space.
 

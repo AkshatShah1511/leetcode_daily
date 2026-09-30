@@ -1,7 +1,6 @@
 # LeetCode 3650: Minimum Cost Path with Edge Reversals
 # https://leetcode.com/problems/minimum-cost-path-with-edge-reversals/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Add reverse arcs with doubled cost and run Dijkstra; positive-cost optimal paths are simple, so no switch is reused.
 # Complexity: O((n+m) log(n+m)) time, O(n+m) space.
 

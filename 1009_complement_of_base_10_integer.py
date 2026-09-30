@@ -1,7 +1,6 @@
 # LeetCode 1009: Complement of Base 10 Integer
 # https://leetcode.com/problems/complement-of-base-10-integer/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: XOR with a mask containing one bit for each significant bit; zero needs one bit.
 # Complexity: O(1) fixed-width time and space.
 

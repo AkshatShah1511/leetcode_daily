@@ -1,7 +1,6 @@
 # LeetCode 2461: Maximum Sum of Distinct Subarrays With Length K
 # https://leetcode.com/problems/maximum-sum-of-distinct-subarrays-with-length-k/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Track sum and frequencies for fixed-length windows; k distinct keys means valid.
 # Complexity: O(n) expected time, O(k) space.
 

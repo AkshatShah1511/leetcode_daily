@@ -1,7 +1,6 @@
 # LeetCode 66: Plus One
 # https://leetcode.com/problems/plus-one/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Propagate a carry backward through consecutive nines.
 # Complexity: O(n) time, O(1) auxiliary space; O(n) if a new leading digit is needed.
 

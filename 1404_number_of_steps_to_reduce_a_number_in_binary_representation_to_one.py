@@ -1,7 +1,6 @@
 # LeetCode 1404: Number of Steps to Reduce a Number in Binary Representation to One
 # https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Scan bits right to left with carry; odd suffixes need increment then division.
 # Complexity: O(n) time, O(1) space.
 

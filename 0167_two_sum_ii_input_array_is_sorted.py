@@ -1,7 +1,6 @@
 # LeetCode 167: Two Sum II - Input Array Is Sorted
 # https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Sorted endpoints determine whether to raise the smaller or lower the larger value.
 # Complexity: O(n) time, O(1) space.
 

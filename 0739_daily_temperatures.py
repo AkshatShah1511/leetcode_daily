@@ -1,7 +1,6 @@
 # LeetCode 739: Daily Temperatures
 # https://leetcode.com/problems/daily-temperatures/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: A decreasing stack holds days waiting for their first warmer temperature.
 # Complexity: O(n) time and space.
 

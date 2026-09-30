@@ -1,7 +1,6 @@
 # LeetCode 101: Symmetric Tree
 # https://leetcode.com/problems/symmetric-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Compare mirrored node pairs and cross their children.
 # Complexity: O(n) time, O(h) DFS space.
 

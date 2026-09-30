@@ -1,7 +1,6 @@
 # LeetCode 125: Valid Palindrome
 # https://leetcode.com/problems/valid-palindrome/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Skip non-alphanumeric characters and compare case-insensitively from both ends.
 # Complexity: O(n) time, O(1) space.
 

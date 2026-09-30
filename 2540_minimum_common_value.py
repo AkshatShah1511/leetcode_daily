@@ -1,7 +1,6 @@
 # LeetCode 2540: Minimum Common Value
 # https://leetcode.com/problems/minimum-common-value/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Advance the smaller sorted value until both pointers agree.
 # Complexity: O(m+n) time, O(1) space.
 

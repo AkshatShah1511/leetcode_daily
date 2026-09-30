@@ -1,7 +1,6 @@
 # LeetCode 328: Odd Even Linked List
 # https://leetcode.com/problems/odd-even-linked-list/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Build odd-position and even-position chains, then append the even chain.
 # Complexity: O(n) time, O(1) space.
 

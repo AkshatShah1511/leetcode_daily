@@ -1,7 +1,6 @@
 # LeetCode 113: Path Sum II
 # https://leetcode.com/problems/path-sum-ii/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Backtrack with enter/exit events; copy a path only when a matching leaf is reached.
 # Complexity: O(n + total output length) time, O(h) auxiliary space.
 

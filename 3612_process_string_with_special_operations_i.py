@@ -1,7 +1,6 @@
 # LeetCode 3612: Process String with Special Operations I
 # https://leetcode.com/problems/process-string-with-special-operations-i/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Simulate each operation on a character list in the stated order.
 # Complexity: O(n*M) time, O(M) space; M is maximum intermediate output length.
 

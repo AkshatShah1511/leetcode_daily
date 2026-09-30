@@ -1,7 +1,6 @@
 # LeetCode 121: Best Time to Buy and Sell Stock
 # https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Track the cheapest earlier purchase and the best profit from selling today.
 # Complexity: O(n) time, O(1) space.
 

@@ -1,7 +1,6 @@
 # LeetCode 724: Find Pivot Index
 # https://leetcode.com/problems/find-pivot-index/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Right sum equals total minus left sum minus the current value.
 # Complexity: O(n) time, O(1) space.
 

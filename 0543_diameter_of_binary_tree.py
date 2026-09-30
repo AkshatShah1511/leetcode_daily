@@ -1,7 +1,6 @@
 # LeetCode 543: Diameter of Binary Tree
 # https://leetcode.com/problems/diameter-of-binary-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: The longest path through a node uses the heights of its two children. Iterative postorder computes children before their parent.
 # Complexity: O(n) time and space.
 

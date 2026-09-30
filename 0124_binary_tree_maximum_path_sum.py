@@ -1,7 +1,6 @@
 # LeetCode 124: Binary Tree Maximum Path Sum
 # https://leetcode.com/problems/binary-tree-maximum-path-sum/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: A complete path may join two branches; a path extended upward may use only one. Iterative postorder computes children before their parent.
 # Complexity: O(n) time and space.
 

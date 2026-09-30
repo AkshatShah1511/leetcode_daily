@@ -1,7 +1,6 @@
 # LeetCode 2977: Minimum Cost to Convert String II
 # https://leetcode.com/problems/minimum-cost-to-convert-string-ii/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Shortest paths among rule strings handle repeated conversions; a trie and prefix DP choose disjoint intervals.
 # Complexity: O(V^3 + n*L + total rule characters) time, O(V^2+n+trie size) space; L is maximum rule length.
 

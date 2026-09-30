@@ -1,7 +1,6 @@
 # LeetCode 111: Minimum Depth of Binary Tree
 # https://leetcode.com/problems/minimum-depth-of-binary-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: The first leaf reached by breadth-first search has minimum depth.
 # Complexity: O(n) time, O(w) space.
 

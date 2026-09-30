@@ -1,7 +1,6 @@
 # LeetCode 209: Minimum Size Subarray Sum
 # https://leetcode.com/problems/minimum-size-subarray-sum/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Positive values permit shrinking a qualifying window until it no longer qualifies.
 # Complexity: O(n) time, O(1) space.
 

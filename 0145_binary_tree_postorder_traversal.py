@@ -1,7 +1,6 @@
 # LeetCode 145: Binary Tree Postorder Traversal
 # https://leetcode.com/problems/binary-tree-postorder-traversal/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Reverse a root-right-left traversal to obtain left-right-root order.
 # Complexity: O(n) time, O(h) auxiliary space plus output.
 

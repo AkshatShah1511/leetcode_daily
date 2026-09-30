@@ -1,7 +1,6 @@
 # LeetCode 3: Longest Substring Without Repeating Characters
 # https://leetcode.com/problems/longest-substring-without-repeating-characters/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Keep a duplicate-free sliding window; jump past the previous occurrence.
 # Complexity: O(n) time, O(min(n, alphabet)) space.
 

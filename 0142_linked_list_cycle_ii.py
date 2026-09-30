@@ -1,7 +1,6 @@
 # LeetCode 142: Linked List Cycle II
 # https://leetcode.com/problems/linked-list-cycle-ii/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: After a Floyd meeting, equal-speed pointers from head and meeting meet at the entry.
 # Complexity: O(n) time, O(1) space.
 

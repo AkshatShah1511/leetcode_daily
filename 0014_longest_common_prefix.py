@@ -1,7 +1,6 @@
 # LeetCode 14: Longest Common Prefix
 # https://leetcode.com/problems/longest-common-prefix/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Compare each column across all strings until the first disagreement.
 # Complexity: O(total characters) time, O(number of strings) transient space.
 

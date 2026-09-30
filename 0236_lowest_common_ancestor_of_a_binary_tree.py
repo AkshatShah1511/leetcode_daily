@@ -1,7 +1,6 @@
 # LeetCode 236: Lowest Common Ancestor of a Binary Tree
 # https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Build parent pointers; the first ancestor of q also on the p chain is the LCA.
 # Complexity: O(n) time and space.
 

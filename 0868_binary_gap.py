@@ -1,7 +1,6 @@
 # LeetCode 868: Binary Gap
 # https://leetcode.com/problems/binary-gap/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Track positions of adjacent set bits while shifting the integer.
 # Complexity: O(log n) time, O(1) space.
 

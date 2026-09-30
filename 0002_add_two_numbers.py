@@ -1,7 +1,6 @@
 # LeetCode 2: Add Two Numbers
 # https://leetcode.com/problems/add-two-numbers/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Add aligned digits and carry; each output digit is the sum modulo ten.
 # Complexity: O(m+n) time, O(m+n) output.
 

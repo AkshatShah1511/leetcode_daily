@@ -1,7 +1,6 @@
 # LeetCode 2976: Minimum Cost to Convert String I
 # https://leetcode.com/problems/minimum-cost-to-convert-string-i/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Floyd-Warshall finds cheapest character conversions; positions are independent.
 # Complexity: O(26^3+n+rules) time, O(26^2) space.
 

@@ -1,7 +1,6 @@
 # LeetCode 50: Pow(x, n)
 # https://leetcode.com/problems/powx-n/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Binary exponentiation squares the base and consumes one exponent bit at a time.
 # Complexity: O(log abs(n)) time, O(1) space.
 

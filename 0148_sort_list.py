@@ -1,7 +1,6 @@
 # LeetCode 148: Sort List
 # https://leetcode.com/problems/sort-list/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Split the list in half, recursively sort both halves, and merge sorted lists.
 # Complexity: O(n log n) time, O(log n) recursion space.
 

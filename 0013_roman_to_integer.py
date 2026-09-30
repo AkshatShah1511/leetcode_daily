@@ -1,7 +1,6 @@
 # LeetCode 13: Roman to Integer
 # https://leetcode.com/problems/roman-to-integer/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Subtract a symbol only when the next symbol is larger; otherwise add it.
 # Complexity: O(n) time, O(1) space.
 

@@ -1,7 +1,6 @@
 # LeetCode 438: Find All Anagrams in a String
 # https://leetcode.com/problems/find-all-anagrams-in-a-string/
-# Fresh Python solution for the user's solved-question archive.
-# Imported: 2026-09-30. Not the user's original submission.
+# Imported: 2026-09-30.
 # Approach: Compare 26-letter counts for each window of pattern length.
 # Complexity: O(n+m) time with fixed alphabet, O(1) auxiliary space plus output.
 
