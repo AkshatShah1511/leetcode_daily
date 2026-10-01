@@ -163,3 +163,4 @@ The archive import is a one-time batch; the existing daily addition schedule con
 | 2026-09-30 | 3824 | Minimum K to Reduce Array Within Limit | [3824_minimum_k_to_reduce_array_within_limit.py](3824_minimum_k_to_reduce_array_within_limit.py) | Solved-question archive; fresh Python |
 | 2026-09-30 | 3827 | Count Monobit Integers | [3827_count_monobit_integers.py](3827_count_monobit_integers.py) | Solved-question archive; fresh Python |
 | 2026-09-30 | 3912 | Valid Elements in an Array | [3912_valid_elements_in_an_array.py](3912_valid_elements_in_an_array.py) | Solved-question archive; fresh Python |
+| 2026-10-01 | 70 | Climbing Stairs | [0070_climbing_stairs.py](0070_climbing_stairs.py) | Fallback; official daily challenge could not be verified |
