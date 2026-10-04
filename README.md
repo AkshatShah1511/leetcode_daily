@@ -166,3 +166,4 @@ The archive import is a one-time batch; the existing daily addition schedule con
 | 2026-10-01 | 70 | Climbing Stairs | [0070_climbing_stairs.py](0070_climbing_stairs.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-02 | 7 | Reverse Integer | [0007_reverse_integer.py](0007_reverse_integer.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-03 | 198 | House Robber | [0198_house_robber.py](0198_house_robber.py) | Fallback; official daily challenge could not be verified |
+| 2026-10-04 | 322 | Coin Change | [0322_coin_change.py](0322_coin_change.py) | Fallback; official daily challenge could not be verified |
