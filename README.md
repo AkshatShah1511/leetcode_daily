@@ -168,3 +168,4 @@ The archive import is a one-time batch; the existing daily addition schedule con
 | 2026-10-03 | 198 | House Robber | [0198_house_robber.py](0198_house_robber.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-04 | 322 | Coin Change | [0322_coin_change.py](0322_coin_change.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-08 | 300 | Longest Increasing Subsequence | [0300_longest_increasing_subsequence.py](0300_longest_increasing_subsequence.py) | Fallback; official daily challenge could not be verified |
+| 2026-10-09 | 139 | Word Break | [0139_word_break.py](0139_word_break.py) | Fallback; official daily challenge could not be verified |
