@@ -170,3 +170,4 @@ The archive import is a one-time batch; the existing daily addition schedule con
 | 2026-10-08 | 300 | Longest Increasing Subsequence | [0300_longest_increasing_subsequence.py](0300_longest_increasing_subsequence.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-09 | 139 | Word Break | [0139_word_break.py](0139_word_break.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-10 | 207 | Course Schedule | [0207_course_schedule.py](0207_course_schedule.py) | Fallback; official daily challenge could not be verified |
+| 2026-10-11 | 215 | Kth Largest Element in an Array | [0215_kth_largest_element_in_an_array.py](0215_kth_largest_element_in_an_array.py) | Fallback; official daily challenge could not be verified |
