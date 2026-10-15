@@ -174,3 +174,4 @@ The archive import is a one-time batch; the existing daily addition schedule con
 | 2026-10-12 | 347 | Top K Frequent Elements | [0347_top_k_frequent_elements.py](0347_top_k_frequent_elements.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-13 | 238 | Product of Array Except Self | [0238_product_of_array_except_self.py](0238_product_of_array_except_self.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-14 | 153 | Find Minimum in Rotated Sorted Array | [0153_find_minimum_in_rotated_sorted_array.py](0153_find_minimum_in_rotated_sorted_array.py) | Fallback; official daily challenge could not be verified |
+| 2026-10-15 | 424 | Longest Repeating Character Replacement | [0424_longest_repeating_character_replacement.py](0424_longest_repeating_character_replacement.py) | Fallback; official daily challenge could not be verified |
