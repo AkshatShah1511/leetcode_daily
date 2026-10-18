@@ -177,3 +177,4 @@ The archive import is a one-time batch; the existing daily addition schedule con
 | 2026-10-15 | 424 | Longest Repeating Character Replacement | [0424_longest_repeating_character_replacement.py](0424_longest_repeating_character_replacement.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-16 | 128 | Longest Consecutive Sequence | [0128_longest_consecutive_sequence.py](0128_longest_consecutive_sequence.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-17 | 56 | Merge Intervals | [0056_merge_intervals.py](0056_merge_intervals.py) | Fallback; official daily challenge could not be verified |
+| 2026-10-18 | 62 | Unique Paths | [0062_unique_paths.py](0062_unique_paths.py) | Fallback; official daily challenge could not be verified |
