@@ -180,3 +180,4 @@ The archive import is a one-time batch; the existing daily addition schedule con
 | 2026-10-18 | 62 | Unique Paths | [0062_unique_paths.py](0062_unique_paths.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-19 | 79 | Word Search | [0079_word_search.py](0079_word_search.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-20 | 39 | Combination Sum | [0039_combination_sum.py](0039_combination_sum.py) | Fallback; official daily challenge could not be verified |
+| 2026-10-21 | 22 | Generate Parentheses | [0022_generate_parentheses.py](0022_generate_parentheses.py) | Fallback; official daily challenge could not be verified |
