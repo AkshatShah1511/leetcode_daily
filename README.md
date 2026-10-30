@@ -189,3 +189,4 @@ The archive import is a one-time batch; the existing daily addition schedule con
 | 2026-10-27 | 74 | Search a 2D Matrix | [0074_search_a_2d_matrix.py](0074_search_a_2d_matrix.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-28 | 73 | Set Matrix Zeroes | [0073_set_matrix_zeroes.py](0073_set_matrix_zeroes.py) | Fallback; official daily challenge could not be verified |
 | 2026-10-29 | 77 | Combinations | [0077_combinations.py](0077_combinations.py) | Fallback; official daily challenge could not be verified |
+| 2026-10-30 | 1526 | Minimum Number of Increments on Subarrays to Form a Target Array | [1526_minimum_number_of_increments_on_subarrays_to_form_a_target_array.py](1526_minimum_number_of_increments_on_subarrays_to_form_a_target_array.py) | Fallback; official daily challenge could not be verified |
